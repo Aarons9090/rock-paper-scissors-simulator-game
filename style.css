@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(37, 41, 75)
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.start {
+  background-color: rgb(37, 41, 75);
+  color: white;
+  font-size: 20px;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.restart {
+  background-color: rgb(37, 41, 75);
+  color: white;
+  font-size: 20px;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.message {
+  color: white;
+  font-size: 40px;
+  margin: 10px;
+}
